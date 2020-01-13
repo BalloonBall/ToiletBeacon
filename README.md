@@ -1,2 +1,2 @@
 # ToiletBeacon
-SIOT beacon receiver app
+SIOT beacon transmitter app
